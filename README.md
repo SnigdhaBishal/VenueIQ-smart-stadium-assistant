@@ -1,4 +1,4 @@
-# 🏏 Smart Stadium Assistant — IPL Fan Experience Platform
+# 🏏 VenueIQ - Smart Stadium Assistant — IPL Fan Experience Platform
 
 > **Hack2Skill · Virtual PromptWars Hackathon**
 > Vertical: **Smart Stadium / Fan Experience**
