@@ -1,5 +1,6 @@
 # VenueIQ-smart-stadium-assistant
 Hack-2-Skill x GoogleforDevelopers
+
 🏏 Smart Stadium Assistant — IPL Fan Experience Platform
 Hack2Skill · Virtual PromptWars Hackathon Vertical: Smart Stadium / Fan Experience
 
